@@ -30,3 +30,9 @@ streamlit run app.py
 
 ## API Key Configuration
 The application connects to Gemini using the API Key configured in the `.env` file. A working configuration is provided by default. If you need to change the key in the future, open `.env` in a text editor and replace the value after `GEMINI_API_KEY=`. You can also enter a different key directly inside the Streamlit user interface in the "Financial Profile Setup" sidebar.
+
+Team Members:
+- Niranjan Kulkarni
+- Ruchita Babar
+- Jiya Bardiya
+- Aasama Ramteke
